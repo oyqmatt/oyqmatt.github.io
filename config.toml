@@ -1,0 +1,12 @@
+theme = "hugo-theme-learn"
+title = "Matthew's Notes"
+
+[params]
+baseURL = 'https://oyqmatt.github.io/'
+languageCode = 'en-sg'
+author = "Matthew Ong"
+description = "Matthew's Notes"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
