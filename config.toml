@@ -10,3 +10,7 @@ description = "Matthew's Notes"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
