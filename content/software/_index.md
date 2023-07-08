@@ -15,4 +15,5 @@ pre = "<b>1. </b>"
 * OpenCV
 * Deepstream
 * Eigen3
+* Python (not much)
 
